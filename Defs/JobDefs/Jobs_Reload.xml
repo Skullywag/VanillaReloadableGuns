@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<JobDefs>
+
+<!--========= General ============-->
+
+    <JobDef>
+        <defName>VanillaReloadableGuns</defName>
+        <driverClass>VanillaReloadableGuns.JobDriver_Reload</driverClass>
+        <reportString>Reloading weapon.</reportString>
+    </JobDef>
+
+</JobDefs>

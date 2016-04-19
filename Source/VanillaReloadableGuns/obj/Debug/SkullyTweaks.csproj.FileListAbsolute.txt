@@ -1,0 +1,17 @@
+C:\Users\mjsku\Desktop\RimWorld1131WinDev\Mods\SkullyTweaks\Source\SkullyTweaks\bin\Debug\SkullyTweaks.dll
+C:\Users\mjsku\Desktop\RimWorld1131WinDev\Mods\SkullyTweaks\Source\SkullyTweaks\bin\Debug\SkullyTweaks.pdb
+C:\Users\mjsku\Desktop\RimWorld1131WinDev\Mods\SkullyTweaks\Source\SkullyTweaks\obj\Debug\SkullyTweaks.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorld1131WinDev\Mods\SkullyTweaks\Source\SkullyTweaks\obj\Debug\SkullyTweaks.dll
+C:\Users\mjsku\Desktop\RimWorld1131WinDev\Mods\SkullyTweaks\Source\SkullyTweaks\obj\Debug\SkullyTweaks.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\SkullyTweaks\Source\SkullyTweaks\bin\Debug\SkullyTweaks.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\SkullyTweaks\Source\SkullyTweaks\bin\Debug\SkullyTweaks.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\SkullyTweaks\Source\SkullyTweaks\obj\Debug\SkullyTweaks.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\SkullyTweaks\Source\SkullyTweaks\obj\Debug\SkullyTweaks.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\SkullyTweaks\Source\SkullyTweaks\obj\Debug\SkullyTweaks.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\SkullyTweaks\Source\SkullyTweaks\bin\Debug\Community Core Library.dll
+\\MAIN-RIG\LocalShare\RimWorldAlpha13Win\RimWorld1135Win\Mods\SkullyTweaks\Source\SkullyTweaks\bin\Debug\SkullyTweaks.dll
+\\MAIN-RIG\LocalShare\RimWorldAlpha13Win\RimWorld1135Win\Mods\SkullyTweaks\Source\SkullyTweaks\bin\Debug\SkullyTweaks.pdb
+\\MAIN-RIG\LocalShare\RimWorldAlpha13Win\RimWorld1135Win\Mods\SkullyTweaks\Source\SkullyTweaks\bin\Debug\Community Core Library.dll
+\\MAIN-RIG\LocalShare\RimWorldAlpha13Win\RimWorld1135Win\Mods\SkullyTweaks\Source\SkullyTweaks\obj\Debug\SkullyTweaks.csprojResolveAssemblyReference.cache
+\\MAIN-RIG\LocalShare\RimWorldAlpha13Win\RimWorld1135Win\Mods\SkullyTweaks\Source\SkullyTweaks\obj\Debug\SkullyTweaks.dll
+\\MAIN-RIG\LocalShare\RimWorldAlpha13Win\RimWorld1135Win\Mods\SkullyTweaks\Source\SkullyTweaks\obj\Debug\SkullyTweaks.pdb

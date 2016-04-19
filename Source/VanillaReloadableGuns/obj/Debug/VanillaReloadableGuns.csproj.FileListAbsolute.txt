@@ -1,0 +1,6 @@
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\VanillaReloadableGuns\Source\VanillaReloadableGuns\bin\Debug\VanillaReloadableGuns.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\VanillaReloadableGuns\Source\VanillaReloadableGuns\bin\Debug\VanillaReloadableGuns.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\VanillaReloadableGuns\Source\VanillaReloadableGuns\bin\Debug\Community Core Library.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\VanillaReloadableGuns\Source\VanillaReloadableGuns\obj\Debug\VanillaReloadableGuns.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\VanillaReloadableGuns\Source\VanillaReloadableGuns\obj\Debug\VanillaReloadableGuns.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha13Win\RimWorld1135Win\Mods\VanillaReloadableGuns\Source\VanillaReloadableGuns\obj\Debug\VanillaReloadableGuns.pdb
