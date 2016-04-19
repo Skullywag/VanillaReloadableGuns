@@ -96,7 +96,7 @@ namespace VanillaReloadableGuns
                 {
                     MoteThrower.ThrowText(this.Wielder.Position.ToVector3Shifted(), Translator.Translate("CR_ReloadingMote"), -1);
                 }
-                Job job = new Job(DefDatabase<JobDef>.GetNamed("SkullyTweaksReloadWeapon", true), this.Wielder, this.parent)
+                Job job = new Job(DefDatabase<JobDef>.GetNamed("VanillaReloadableGuns", true), this.Wielder, this.parent)
                 {
                     playerForced = true
                 };
